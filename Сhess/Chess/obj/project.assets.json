@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Руслан\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Руслан\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Руслан\\OneDrive\\Документы\\GitHub\\Chess\\Сhess\\Chess\\Chess.csproj",
+      "projectName": "Chess",
+      "projectPath": "C:\\Users\\Руслан\\OneDrive\\Документы\\GitHub\\Chess\\Сhess\\Chess\\Chess.csproj",
       "packagesPath": "C:\\Users\\Руслан\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Руслан\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Руслан\\OneDrive\\Документы\\GitHub\\Chess\\Сhess\\Chess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Руслан\\AppData\\Roaming\\NuGet\\NuGet.Config",
